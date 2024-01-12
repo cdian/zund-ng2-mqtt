@@ -1,5 +1,5 @@
 {
-  "name": "ng2-mqtt",
+  "name": "zund-ng2-mqtt",
   "version": "0.1.2",
   "description": "Port of mqttws31 library for angular2",
   "main": "./index",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/icanos/ng2-mqtt.git"
+    "url": "git+https://github.com/cdian/zund-ng2-mqtt.git"
   },
   "keywords": [
     "angular2",
@@ -18,7 +18,7 @@
   "author": "westin",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/icanos/ng2-mqtt/issues"
+    "url": "https://github.com/cdian/zund-ng2-mqtt/issues"
   },
-  "homepage": "https://github.com/icanos/ng2-mqtt#readme"
+  "homepage": "https://github.com/cdian/zund-ng2-mqtt#readme"
 }
